@@ -35,7 +35,8 @@ you entered.
 
 The most important set of commands in any terminal are its navigation commands.  If you'd like, feel free to open your
 own terminal and follow along with the examples to see what they do.  Lines in the examples beginning with a file path
-followed by a `$` are commands you can type in; lines not preceded by this are output from the terminal.
+followed by a `$` are commands you can type in; this is only to distinguish these lines from output lines, which are not
+prefixed with this symbol.  You do not need to type the `$` as part of the commands.
 
 Here are some core navigational commands:
 
