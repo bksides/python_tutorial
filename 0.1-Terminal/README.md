@@ -185,3 +185,32 @@ program simply outputs whatever arguments you give it:
 ~$ echo Hello world!
 Hello world!
 ```
+
+When you type this, your terminal looks through a few system directories where it expects to find your programs.  Once
+it finds one called "echo", it runs that program and gives it the rest of the arguments you provided: `"Hello"` and
+`"world!"`.
+
+In some cases, the program you want to run will not be located in one of the standard directories, in which case you
+will have to provide the full path to the program.  For instance, say you have a program called `myecho` in your
+home directory, `/Users/my_username`.  This program simply emulates the behavior of the built-in `echo` program.
+Since your home directory is not one of the standard directories, you must provide the full path to this program:
+
+```
+~$ /Users/my_username/myecho some random arguments
+some random arguments
+```
+
+Alternatively, since the program is located in your home directory, you can use the `~` shorthand in place of the full
+path:
+
+```
+~$ ~/myecho hello world!
+hello world!
+```
+
+As yet another alternative, one can use a period `.` to refer to the current directory as a shorthand:
+
+```
+~$ ./myecho hello world!
+hello world!
+```
