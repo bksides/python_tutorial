@@ -34,3 +34,18 @@ print()
 # Now for an exercise: add an additional print statement below these comments, and have it print "Hello, world!"
 
 # Or have it print whatever you like!  It's your program, after all!
+
+# ERASE THIS LINE AND PUT YOUR PRINT STATEMENT HERE!
+
+# Once you've done this, you can run the python file again.  If all goes well, three lines will appear on your terminal:
+#   This is a print statement!
+#   
+#   Hello, world! (or whatever you had your print statement say)
+
+# The python interpreter goes through programs line by line, executing statements one after the other, so the lines
+# appear in the same order you print them in this file.  If you want, you can try re-ordering the print statements - you
+# should see that the order of the output lines changes accordingly.
+
+# Congratulations!  You've beaten every programmer's first challenge, the hello world program!  Now it's time to move
+# on to the next exercise, where we talk about variables and data types.  Go to the root directory of this project and
+# navigate into "2-Variables", or just click the link in the README of this lesson, to continue!

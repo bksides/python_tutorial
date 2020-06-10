@@ -18,3 +18,5 @@ This is a print statement!
 
 Let's take a look at how this is working.  To do so, go ahead and open HelloWorld.py.  I'll explain more once you're
 there!
+
+Next lesson: [Variables](/2-Variables)
