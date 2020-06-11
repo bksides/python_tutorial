@@ -12,7 +12,7 @@ get started, but I'm going to recommend four:
 A **terminal** is a text-based interface for issuing commands to your computer.  Pretty much all computers will have one
 of these already.  Opening your terminal can be a different process depending on your operating system, but in most
 cases just searching for a program called "terminal" ("cmd" or "command prompt" in Windows) will find you the program
-you're looking for.  For more on using the terminal, see exercise [0.1](/0.1-Terminal).
+you're looking for.  For more on using the terminal, see exercise [0](/0-Terminal).
 
 2. The Python 3 Interpreter - You need this, too!
 
